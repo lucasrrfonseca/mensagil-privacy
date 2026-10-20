@@ -21,7 +21,7 @@ A integração só pode ser ativada depois que você aceita, nas opções da ext
 - **Mensagens:** texto ou legenda, tipo, data e hora, identificadores da mensagem e da conversa, se foi enviada ou recebida, se é de grupo e se partiu da automação ou de uma pessoa.
 - **Contatos:** identificadores do WhatsApp (número de telefone e/ou identificador LID) e o nome de perfil exibido pelo WhatsApp.
 - **Mídia:** apenas metadados (tipo, nome do arquivo e tamanho). O conteúdo de uma mídia só é enviado quando a sua plataforma pede explicitamente, pela ação `download_media`.
-- **Outros eventos:** confirmações de entrega e leitura, reações, mensagens editadas ou apagadas, novas conversas, descadastros (opt-out) e resultados de comandos.
+- **Outros eventos:** confirmações de entrega e leitura, reações, mensagens editadas ou apagadas, novas conversas, etiquetas adicionadas ou removidas, descadastros (opt-out) e resultados de comandos.
 - **Conta conectada:** o número e o identificador da conta do WhatsApp Web em uso.
 
 A extensão também executa no WhatsApp Web as ações que a sua plataforma devolve (por exemplo, enviar uma mensagem em uma conversa existente), sempre respeitando os limites de envio e a lista de descadastro.
@@ -98,7 +98,7 @@ The integration can only be enabled after you accept, in the extension options, 
 - **Messages:** text or caption, type, date and time, message and chat identifiers, whether it was sent or received, whether it is a group message and whether it came from the automation or from a person.
 - **Contacts:** WhatsApp identifiers (phone number and/or LID identifier) and the profile name shown by WhatsApp.
 - **Media:** metadata only (type, file name and size). Media content is sent only when your platform explicitly requests it through the `download_media` action.
-- **Other events:** delivery and read receipts, reactions, edited or deleted messages, new chats, opt-outs and command results.
+- **Other events:** delivery and read receipts, reactions, edited or deleted messages, new chats, labels added or removed, opt-outs and command results.
 - **Connected account:** the number and identifier of the WhatsApp Web account in use.
 
 The extension also performs in WhatsApp Web the actions your platform returns (for example, sending a message in an existing chat), always within the sending limits and the opt-out list.

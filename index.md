@@ -1,12 +1,12 @@
 ---
-title: Privacy Policy - WA Automation Bridge
+title: Privacy Policy - Mensagil
 ---
 
-# Política de Privacidade — WA Automation Bridge
+# Política de Privacidade — Mensagil
 
 *Última atualização: 20 de outubro de 2026*
 
-O WA Automation Bridge é uma extensão do Google Chrome que conecta o WhatsApp Web, aberto no seu navegador, a uma plataforma de automação escolhida e configurada por você (por exemplo, n8n, Make, Zapier ou um webhook próprio). Esta política explica quais dados a extensão trata, para onde eles vão e como você os controla.
+O Mensagil – Automação de Mensagens é uma extensão do Google Chrome que conecta o WhatsApp Web, aberto no seu navegador, a uma plataforma de automação escolhida e configurada por você (por exemplo, n8n, Make, Zapier ou um webhook próprio). Esta política explica quais dados a extensão trata, para onde eles vão e como você os controla.
 
 ## Resumo
 
@@ -79,11 +79,11 @@ E-mail: waautomationbridge@gmail.com
 
 ---
 
-# Privacy Policy — WA Automation Bridge
+# Privacy Policy — Mensagil
 
 *Last updated: October 20, 2026*
 
-WA Automation Bridge is a Google Chrome extension that connects WhatsApp Web, open in your browser, to an automation platform that you choose and configure (for example n8n, Make, Zapier or your own webhook). This policy explains what data the extension handles, where it goes and how you control it.
+Mensagil – Message Automation is a Google Chrome extension that connects WhatsApp Web, open in your browser, to an automation platform that you choose and configure (for example n8n, Make, Zapier or your own webhook). This policy explains what data the extension handles, where it goes and how you control it.
 
 ## Summary
 

@@ -75,7 +75,7 @@ Mudanças nesta política serão publicadas neste endereço, com nova data de at
 
 ## Contato
 
-E-mail: waautomationbridge@gmail.com
+E-mail: waautomationbridge+mensagil@gmail.com
 
 ---
 
@@ -152,4 +152,4 @@ Changes to this policy will be published at this address with a new update date.
 
 ## Contact
 
-Email: waautomationbridge@gmail.com
+Email: waautomationbridge+mensagil@gmail.com
